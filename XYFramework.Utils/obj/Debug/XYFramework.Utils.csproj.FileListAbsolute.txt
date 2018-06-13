@@ -1,0 +1,5 @@
+D:\VS2012Pro\XYFramework\XYFramework.Utils\bin\Debug\XYFramework.Utils.dll
+D:\VS2012Pro\XYFramework\XYFramework.Utils\bin\Debug\XYFramework.Utils.pdb
+D:\VS2012Pro\XYFramework\XYFramework.Utils\obj\Debug\XYFramework.Utils.csprojResolveAssemblyReference.cache
+D:\VS2012Pro\XYFramework\XYFramework.Utils\obj\Debug\XYFramework.Utils.dll
+D:\VS2012Pro\XYFramework\XYFramework.Utils\obj\Debug\XYFramework.Utils.pdb

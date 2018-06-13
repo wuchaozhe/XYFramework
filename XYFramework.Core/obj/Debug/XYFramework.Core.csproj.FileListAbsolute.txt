@@ -1,0 +1,4 @@
+D:\VS2012Pro\XYFramework\XYFramework.Core\bin\Debug\XYFramework.Core.dll
+D:\VS2012Pro\XYFramework\XYFramework.Core\bin\Debug\XYFramework.Core.pdb
+D:\VS2012Pro\XYFramework\XYFramework.Core\obj\Debug\XYFramework.Core.dll
+D:\VS2012Pro\XYFramework\XYFramework.Core\obj\Debug\XYFramework.Core.pdb
